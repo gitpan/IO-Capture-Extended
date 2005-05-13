@@ -1,0 +1,13 @@
+MANIFEST
+LICENSE
+README
+Todo
+Changes
+lib/IO/Capture/Stdout/Extended.pm
+lib/IO/Capture/Stderr/Extended.pm
+lib/IO/Capture/Extended.pm
+lib/IO/Capture/Extended/Overview.pm
+t/01.t
+t/02.t
+Makefile.PL
+META.yml                                 Module meta-data (added by MakeMaker)
