@@ -9,5 +9,6 @@ lib/IO/Capture/Extended.pm
 lib/IO/Capture/Extended/Overview.pm
 t/01.t
 t/02.t
+t/testlib/_Auxiliary.pm
 Makefile.PL
 META.yml                                 Module meta-data (added by MakeMaker)

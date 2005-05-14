@@ -1,4 +1,10 @@
 Revision history for Perl extension IO-Capture-Extended
+
+0.09 Fri May 13 22:33:00 EDT 2005
+    - MANIFEST in v0.08 lacked t/testlib/_Auxiliary.pm.  Hence, it 
+didn't get packed in distribution by 'make dist'.  Hence, when I 
+installed distro from CPAN, everything went kaflooey!
+
 0.08 Thu May 12 21:30:00 EDT 2005
     - Correcting flaw in packaging of distribution.
 

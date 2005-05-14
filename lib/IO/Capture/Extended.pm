@@ -1,5 +1,5 @@
 package IO::Capture::Extended;
-$VERSION = 0.08; # as of 05/12/2005
+$VERSION = 0.09; # as of 05/13/2005
 require Exporter;
 our @ISA       = qw(Exporter);
 our @EXPORT_OK = qw(
