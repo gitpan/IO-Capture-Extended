@@ -6,6 +6,10 @@ package IO::Capture::Extended::Overview;
 
 IO::Capture::Extended - Extend functionality of IO::Capture
 
+=head1 VERSION
+
+0.10, released May 23, 2006.
+
 =head1 SYNOPSIS
 
 The programmer interface consists of two classes:
@@ -408,7 +412,7 @@ James E Keenan.  CPAN ID: JKEENAN.  jkeenan [at] cpan [dot] org.
 
 =head1 COPYRIGHT
 
-Copyright 2005 James E Keenan.
+Copyright 2005-06 James E Keenan.
 
 This program is free software; you can redistribute
 it and/or modify it under the same terms as Perl itself.

@@ -1,5 +1,7 @@
 package IO::Capture::Extended;
-$VERSION = 0.09; # as of 05/13/2005
+use strict;
+use warnings;
+our $VERSION = 0.10; # as of 05/23/2006
 require Exporter;
 our @ISA       = qw(Exporter);
 our @EXPORT_OK = qw(

@@ -1,5 +1,9 @@
 Revision history for Perl extension IO-Capture-Extended
 
+0.10 Tue May 23 22:08:06 EDT 2006
+    - Added 'use strict;' and 'use warnings;' to lib/IO/Capture/Extended.pm.
+      No change in functionality.  Removed 'Todo' from distribution.
+
 0.09 Fri May 13 22:33:00 EDT 2005
     - MANIFEST in v0.08 lacked t/testlib/_Auxiliary.pm.  Hence, it 
 didn't get packed in distribution by 'make dist'.  Hence, when I 
