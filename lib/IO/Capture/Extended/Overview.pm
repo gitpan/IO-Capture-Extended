@@ -1,4 +1,5 @@
 package IO::Capture::Extended::Overview;
+use strict;
 
 ########## DOCUMENTATION ##########
 
@@ -8,7 +9,7 @@ IO::Capture::Extended - Extend functionality of IO::Capture
 
 =head1 VERSION
 
-0.10, released May 23, 2006.
+0.11, released September 6, 2006.
 
 =head1 SYNOPSIS
 
